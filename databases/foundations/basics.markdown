@@ -1,6 +1,6 @@
-## Fundamentals of Database Engineering
+# Fundamentals of Database Engineering
 
-# Transaction
+## Transaction
 Simply put, transactions are a collection of commands that are treated as one single unit of work.
 This is an oversimplification, however, since transactions also have other properties as well.
 
